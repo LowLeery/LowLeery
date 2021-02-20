@@ -1,6 +1,6 @@
 ### Merhaba, Burası Benim Yani LowLeery'in Profili! 👋
 
-[![Öneçıkan Projem](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://github.com/LowLeery/RandomPass)
+[![Öneçıkan Projem](https://github.com/LowLeery/RandomPass)](https://github.com/LowLeery/RandomPass)
 
 ## Ben!
 
