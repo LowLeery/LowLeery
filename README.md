@@ -7,8 +7,8 @@
 ## Ben!
 
 - 🌱 Hmm, Genellikle Düşünceliyim 🤣
-- 👯 Hedefim Yazılım Mühendisi Olmak.
-- 🥅 2021 hedefim: Aslına Bakarsak Hiçbirşey 😎
+- 👯 Hedefim Elektronik Mühendisliği Okumak.
+- 🥅 2021 hedefim: Aslına Bakarsak Hiç birşey 😎
 - ⚡ Hobilerim: Belli Ettiğim Gibi, YAZILIM!
 
 ### Önerdiğim Şarkılar! 🎧
