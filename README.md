@@ -1,6 +1,6 @@
 ### Merhaba, Burası Benim Yani LowLeery'in Profili! 👋
 
-![Görüntüleme](gerekli.html)
+![Görüntüleme](https://gpvc.arturio.dev/ByCh4n)
 
 [![Öneçıkan Projem](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)](https://github.com/LowLeery/RandomPass)
 
