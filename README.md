@@ -2,8 +2,6 @@
 
 ![Görüntüleme](https://gpvc.arturio.dev/LowLeery)
 
-[![Öneçıkan Projem](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)](https://github.com/LowLeery/RandomPass)
-
 ## Ben!
 
 - 🌱 Hmm, Genellikle Düşünceliyim 🤣
@@ -31,7 +29,17 @@
 <br />
 <br />
 
----
+<details>
+  <summary>İstatistikler</summary>
+
+<p align="center">
+<a href="https://github.com/LowLeery">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LowLeery&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LowLeery&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+</details>
 
 [hepsi]: https://github.com/LowLeery
 [oneri]: https://code.visualstudio.com/ 
