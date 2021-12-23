@@ -5,9 +5,9 @@
 ## Ben!
 
 - 🌱 Hmm, Genellikle Düşünceliyim 🤣
-- 👯 Hedefim Elektronik Mühendisliği Okumak.
-- 🥅 2021 hedefim: Aslına Bakarsak Hiç birşey 😎
-- ⚡ Hobilerim: Belli Ettiğim Gibi, YAZILIM!
+- 👯 Hedefim Kendi İlaçlarımı Piyasaya Sürmek 😷
+- 🥅 2022 Hedefim: Aslına Bakarsak Hiç birşey 😎
+- ⚡ Hobilerim: Belli Ettiğim Gibi, YAZILIM & Formula!
 
 ### Önerdiğim Şarkılar! 🎧
 
