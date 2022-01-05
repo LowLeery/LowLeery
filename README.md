@@ -1,6 +1,6 @@
 ### Merhaba, Burası Benim Yani LowLeery'in Profili! 👋
 ```shell
-cat \LowLeery\who.txt
+cat /LowLeery/who.txt
 ```
 
 ## Ben!
