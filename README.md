@@ -4,10 +4,10 @@
 
 ## Ben!
 
-- 🌱 Hmm, Genellikle Düşünceliyim 🤣
-- 👯 Hedefim Kendi İlaçlarımı Piyasaya Sürmek 😷
-- 🥅 2022 Hedefim: Aslına Bakarsak Hiç birşey 😎
-- ⚡ Hobilerim: Belli Ettiğim Gibi, YAZILIM & Formula!
+- 🌱 Hmm, Genellikle Düşünceliyim ve Bu Durum Başıma İş Açar.
+- 👯 Hedefim Kendi İlaçlarımı Piyasaya Sürmek - Farmatoloji.
+- 🥅 2022 Hedefim: Din Üzerine Düşünceler Kurmamak.
+- ⚡ Hobilerim: Belli Ettiğim Gibi, Bilişim & Formula.
 
 ### Bildiğim Yazılım Dilleri ve Uygulamaları:
 
