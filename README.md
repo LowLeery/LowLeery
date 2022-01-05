@@ -1,6 +1,7 @@
 ### Merhaba, Burası Benim Yani LowLeery'in Profili! 👋
-
-![Görüntüleme](https://gpvc.arturio.dev/LowLeery)
+```
+cat \LowLeery\who.txt
+```
 
 ## Ben!
 
