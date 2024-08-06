@@ -3,13 +3,6 @@
 cat /LowLeery/who.txt
 ```
 
-## Ben!
-
-- 🌱 Hmm, Genellikle Düşünceliyim ve Bu Durum Başıma İş Açar.
-- 👯 Hedefim Kendi İlaçlarımı Piyasaya Sürmek - Farmatoloji.
-- 🥅 2022 Hedefim: Din Üzerine Düşünceler Kurmamak.
-- ⚡ Hobilerim: Belli Ettiğim Gibi, Bilişim & Formula.
-
 ### Bildiğim Yazılım Dilleri ve Uygulamaları:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][oneri]
